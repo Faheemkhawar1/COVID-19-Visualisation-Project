@@ -1,1 +1,1 @@
-# faheem-work
+The project pipeline is divided into 3 parts, i.e., data fetch, BLAST results generation, data visualisation. The first part fetches genomic sequences data. This part also displays GC content, molecular weights, protein weight, number of functional codons, performs transcription and translation. The ouput sequence from the first file is then used as input to second file and BLAST is performed on the sequence and the results are generated. In the end, the generated results are visualised in the third and final script.
